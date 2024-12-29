@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vineet Talwar</h1>
 <h3 align="center">A Product Leader, Fractional CTO and WordPress Developer based in Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineettalwar&label=Profile%20views&color=0e75b6&style=flat" alt="vineettalwar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineettalwar" alt="vineettalwar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vineetsktalwar" target="blank"><img src="https://img.shields.io/twitter/follow/vineetsktalwar?logo=twitter&style=for-the-badge" alt="vineetsktalwar" /></a> </p>
 
-- 🔭 I help [organizations fix their tech at](https://sometech.work)
+- 🔭 I help [organizations fix their tech](https://vineettalwar.com)
 
 - 🌱 I’m currently learning **OCPP**
 
 - 👯 I’m currently working on [Client and internal projects at Some Tech Work](https://sometech.work)
 
-- 🤝 I’m currently exploring **Climate Tech**
+- 🤝 I’m currently geeking about [Climate Tech and working with Carbon13](https://carbonthirteen.com/)
 
 - 👨‍💻 All of my projects are available at [https://vineet.de/portfolio](https://vineet.de/portfolio)
 
