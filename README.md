@@ -9,7 +9,7 @@
 
 - 👯 I’m currently working on [various client and internal projects at Some Tech Work](https://sometech.work)
 
-- 🤝 I’m currently geeking about [Climate Tech and working with Carbon13 on a stealth mode startup](https://carbonthirteen.com/)
+- 🤝 I’m currently geeking about [Climate Tech and building a stealth mode startup with Carbon13](https://carbonthirteen.com/)
 
 - 👨‍💻 Check out my Portfolio at [https://vineet.de/portfolio](https://vineet.de/portfolio)
 - 📄 Know more about my work at [https://vineet.de/cv](https://vineet.de/cv)
