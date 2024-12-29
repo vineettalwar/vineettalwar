@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vineet Talwar</h1>
 <h3 align="center">A Product Leader, Fractional CTO and WordPress Developer based in Germany</h3>
 
-<p align="left"> <a href="https://twitter.com/vineetsktalwar" target="blank"><img src="https://img.shields.io/twitter/follow/vineetsktalwar?logo=twitter&style=for-the-badge" alt="vineetsktalwar" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineettalwar&label=Profile%20views&color=0e75b6&style=flat" alt="vineettalwar" /> </p>
 
-- 🔭 I help [organizations fix their tech](https://vineettalwar.com)
+- 🔭 I help [organizations fix their tech and and optimize digital experiences.](https://vineettalwar.com)
 
 - 🌱 I’m currently learning **OCPP**
 
 - 👯 I’m currently working on [various client and internal projects at Some Tech Work](https://sometech.work)
 
-- 🤝 I’m currently geeking about [Climate Tech and working with Carbon13](https://carbonthirteen.com/)
+- 🤝 I’m currently geeking about [Climate Tech and working with Carbon13 on a stealth mode startup](https://carbonthirteen.com/)
 
 - 👨‍💻 All of my projects are available at [https://vineet.de/portfolio](https://vineet.de/portfolio)
 
-- 📝 I regularly speak at conferences at [https://wordpress.tv/speakers/vineet-talwar/](https://wordpress.tv/speakers/vineet-talwar/)
+- 📝 I regularly speak at conferences and you can see my videos at [https://wordpress.tv/speakers/vineet-talwar/](https://wordpress.tv/speakers/vineet-talwar/)
 
 - 💬 Ask me about **WordPress, Scaling, Infrastructure, Compliances,**
 
 - 📫 You can reach me at **contact@vineet.de**
 
-- 📄 Know about my experiences [https://vineet.de/cv](https://vineet.de/cv)
+- 📄 Know more about my work at [https://vineet.de/cv](https://vineet.de/cv)
 
 - ⚡ Fun fact **I bought DSLR from my first paycheck.**
 
@@ -37,4 +37,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vineetsktalwar "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vineetsktalwar " /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineettalwar&show_icons=true&locale=en&layout=compact" alt="vineettalwar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineettalwar&show_icons=true&locale=en" alt="vineettalwar" /></p>
