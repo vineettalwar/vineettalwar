@@ -11,15 +11,15 @@
 
 - 🤝 I’m currently geeking about [Climate Tech and working with Carbon13 on a stealth mode startup](https://carbonthirteen.com/)
 
-- 👨‍💻 All of my projects are available at [https://vineet.de/portfolio](https://vineet.de/portfolio)
+- 👨‍💻 Check out my Portfolio at [https://vineet.de/portfolio](https://vineet.de/portfolio)
+- 📄 Know more about my work at [https://vineet.de/cv](https://vineet.de/cv)
 
 - 📝 I regularly speak at conferences and you can see my videos at [https://wordpress.tv/speakers/vineet-talwar/](https://wordpress.tv/speakers/vineet-talwar/)
 
-- 💬 Ask me about **WordPress, Scaling, Infrastructure, Compliances,**
+- 💬 Ask me about **WordPress, Scaling, Infrastructure, Accessibility and Web Compliances,**
 
 - 📫 You can reach me at **contact@vineet.de**
 
-- 📄 Know more about my work at [https://vineet.de/cv](https://vineet.de/cv)
 
 - ⚡ Fun fact **I bought DSLR from my first paycheck.**
 
