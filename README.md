@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet Talwar</h1>
 <h3 align="center">A Product Leader, Fractional CTO and WordPress Developer based in Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineettalwar&label=Profile%20views&color=0e75b6&style=flat" alt="vineettalwar" /> </p>
-
 - 🔭 I help [organizations fix their tech and and optimize digital experiences.](https://vineettalwar.com)
 
 - 🌱 I’m currently learning **OCPP**
@@ -36,5 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vineetsktalwar "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vineetsktalwar " /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineettalwar&show_icons=true&locale=en" alt="vineettalwar" /></p>
