@@ -9,8 +9,8 @@
 
 - 🤝 I’m currently geeking about [Climate Tech and building a stealth mode startup with Carbon13](https://carbonthirteen.com/)
 
-- 👨‍💻 Check out my Portfolio at [https://vineet.de/portfolio](https://vineet.de/portfolio)
-- 📄 Know more about my work at [https://vineet.de/cv](https://vineet.de/cv)
+- 👨‍💻 Check out my Portfolio at [https://vineet.de/portfolio](https://vineet.de/projects)
+- 📄 Know more about my work at [https://vineet.de/cv](https://vineet.de/cv2025)
 
 - 📝 I regularly speak at conferences and you can see my videos at [https://wordpress.tv/speakers/vineet-talwar/](https://wordpress.tv/speakers/vineet-talwar/)
 
